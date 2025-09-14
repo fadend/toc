@@ -1,0 +1,16 @@
+.self-anchor-link {
+  color: black;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-left: 10px;
+  text-decoration: none;
+}
+.self-anchor-link:hover {
+  background-color: yellow;
+}
+.toc-body > .toc-ul:first-child {
+  margin-top: 5px;
+}
+.toc-header {
+  cursor: pointer;
+}
